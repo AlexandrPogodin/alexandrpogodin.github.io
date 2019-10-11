@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Web developer.
+HTML, CSS, JS, PHP7, Python, Node.js, MySQL, Git
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[dev-pogodin.ru](https://dev-pogodin.ru)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[awpogodin@mail.ru](mailto:awpogodin@mail.ru)
